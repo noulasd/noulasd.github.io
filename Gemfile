@@ -2,4 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "texture"
+gemspec
+gem "github-pages"
