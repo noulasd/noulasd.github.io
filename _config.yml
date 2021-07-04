@@ -38,7 +38,7 @@ plugins:
 
 texture:
  remote_theme: samarsault/texture
- title: Dimitris Noulas
+ title: Dimitrios Noulas
  tagline: Math Graduate Student
  date_format: "%b %-d, %Y"
  social_links:
