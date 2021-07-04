@@ -24,7 +24,6 @@ github_username:  noulasd
 
 # Build settings
 markdown: kramdown
-mathjax: true
 #theme: minima
 theme: texture
 remote_theme: samarshault/texture
