@@ -3,6 +3,7 @@ layout: post
 title:  "Understanding Group Actions on Sets"
 date:   2021-08-03 11:55:04 +0300
 categories: Algebra
+permalink: Understanding-Group-Actions-on-Sets.html
 ---
 
 Usually when a math student encounters the definition of group action for the first time in an introductory abstract algebra or group theory class, they get really confused about it. That's for a good reason as the definition seems quite random at first, introducing a binary operation between a group and a set. So let's see what's really going on.
@@ -88,6 +89,11 @@ In all this lies the reason why we cant solve 5th degree polynomials with radica
 Now another interesting group action for the end of this post. With a taste of combinatorics. The dihedral group 4 $$D_4$$ we mentioned previously is the group of symmetries of the square. The group presentation is $$D_4 = <a,b: a^4 = b^2 = e, ab = ba^{-1}>$$. So we could say the groups elements are $$\{e,a,a^2,a^3,b,ba,ba^2,ba^3\}$$. What does this mean visually?
 
 
+![texture theme preview](images/rotations.gif)
+
+
+
+![texture theme preview](images/reflexion.gif)
 
 
 
