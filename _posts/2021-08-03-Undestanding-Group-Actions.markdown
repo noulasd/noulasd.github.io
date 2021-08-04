@@ -97,6 +97,71 @@ Now another interesting group action for the end of this post. With a taste of c
 
 
 
+So there's a hidden group action in there. What if we consider the vertices of the square to be distinct e.g. if we color them with different colors. In the way the above animations work, the group $$D_4$$ acts on the set of the ordered tuples corresponding to the square vertices such as:
+
+
+$$e * (1,2,3,4) = (1,2,3,4)$$
+
+
+$$a * (1,2,3,4) = (2,3,4,1)$$
+
+
+$$a^2 * (1,2,3,4) = a * (2,3,4,1) = (3,4,1,2)$$
+
+
+$$\text{ etc.} $$
+
+Let's formalize this a bit more. Let $$A$$ be a set of $$m$$ elements and $$X$$ be the set of all functions (colorings) 
+
+
+$$f:A \longrightarrow \{k_1,k_2,\ldots,k_n\}$$
+
+
+where we map every element of $$A$$ to a color $$k_i$$.
+
+The symmetrical group of $$A$$ is isomorphic to the symmetrical group $$S_m$$ using the relation
+
+$$(\sigma f) (a) = f(\sigma^{-1}(a)), \quad a \in A, f \in X \text{ and } \sigma \in S_A$$
+
+Feel free to verify that $$(ef)(a) = f(a)$$ and $$\sigma (\tau f)(a) = (\sigma \tau) f(a)$$!
+
+Looking back at the animations now knowing this, we have that $$A = \{1,2,3,4\}$$ and let's pretend our colors match their numbers e.g. $$f(a) = a$$. Now what we are really saying is that the action of an element $$g$$ from our group $$G$$ on the coloring of our vertex $$f(a)$$ is just the coloring $$\rho_g (f(a))$$. So in our example:
+
+$$a * (1,2,3,4) = (2,3,4,1) \quad \text{ induces the permutation: } $$
+
+$$\rho_a (1) = 2,\quad  \rho_a (2) = 3,\quad  \rho_a(3) = 4, \quad \rho_a(4) = 1$$
+
+$$ \text{ or just } \rho_a = (1234)$$
+
+So that's pretty much what group actions are. The elements in $$G$$ decide in what way we are going to shuffle the elements in $$X$$.
+
+
+Let's solve a neat combinatorics problem now. Suppose we have a $$5 \times 5$$ grid and we want to color each cell with one out of $$n$$ colors.
+
+
+![texture theme preview](images/color1.gif)
+
+
+In how many was can we do that? The answer of course is $$n^{25}$$. That's easy. What if we decide that two colorings of our grid are equivalent if the second one can happen from the first after a $$90^{\circ}$$ rotation or a reflexion over any axis of symmetry? The answer is $$keftes$$. Not so easy this time right?
+
+For example, the following two colorings are equivalent:
+
+![texture theme preview](images/equiv1.png)
+
+![texture theme preview](images/equiv2.png)
+
+We can see that the second coloring is the reflection of the first one on the $$y=x$$ axis. Or with our $$D_4$$ notation its just the element $$aba^2$$ acting:
+
+![texture theme preview](images/equivalent.gif)
+
+
+So how can we deduce this result?
+
+
+
+
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
