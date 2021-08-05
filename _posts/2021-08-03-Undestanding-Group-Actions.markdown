@@ -155,7 +155,127 @@ We can see that the second coloring is the reflection of the first one on the $$
 ![texture theme preview](images/equivalent.gif)
 
 
-So how can we deduce this result?
+Notice that in the last frame the colors match exactly with the colors in the second picture.
+
+
+
+So how can we deduce this result? Truthfully, we haven't covered all the necessary material of group actions as we only dwelled on the definition. We will rely on the famous [Burnside's Lemma](https://en.wikipedia.org/wiki/Burnside%27s_lemma) for the answer.
+
+
+
+$$ \text{Burnside's Lemma.}$$
+
+
+
+$$ \text{Let } G \text{ be a finite group that acts on a set } X. \text{ For every } g \in G  \text{ let } $$
+
+
+
+$$X^g =  \{x \in X: \quad g*x = x \} $$
+
+
+$$\text{ the set of elements in } X \text{ that are fixed by } g.$$
+
+
+
+$$ \text{Let also } |X/G| \text{ denote the number of (distinct) orbits }$$
+
+
+$$ G\cdot x = \{ g*x : \quad g \in G \} \quad \text{ for every } x \in X.$$
+
+
+$$\text{Then: } \quad |X/G| = \frac{1}{|G|} \sum\limits_{g \in G} |X^g| $$
+
+A known group theory fact is that the orbits of a group action partition the set $$X$$, so the above words distinct and for all $$x \in X$$ are not really necessary.
+
+
+
+Let's review the case of counting where no rotation or reflexion takes place. Our answer as we mentioned is $$n^{25}$$. If we suppose the trivial group is acting, the action of the identity element $$e$$ gives us $$25$$ fixed cells (or points). Another way to name it is that we have $$25$$ disjoint cycles of length $$1$$. See where we are getting at?
+
+For ever induced permutation $$\rho_g$$, we will be raising $$n$$ to the power that is equal to the number of disjoint cycles $$\rho_g$$ consists of, including those cycles of length $$1$$. The numbers in a cycle have to be of the same color, this is why one cycle no matter its length counts as a fixed point! To get the desired result, we will have to divide by the group's order. This is hidden in the no rotation/reflexion case as the group is trivial. This is what the Burnside's Lemma reduces our problem to, just counting disjointed cycles.
+
+For the sake of the argument, let's count together the number of cycles after the action of the element $$g = a^3$$.
+
+
+![texture theme preview](images/equal1a.png)
+
+![texture theme preview](images/equal2a.png)
+
+$$\rho_g(1) = 5, \quad \rho_g(5) = 25,\quad \rho_g(25) = 21, \quad \rho_g(21) = 1$$
+
+$$\rho_g(2) = 10,\quad \rho_g(10) = 24,\quad \rho_g(24) = 16,\quad \rho_g(16) = 2$$
+
+$$\rho_g(3) = 15,\quad \rho_g(15) = 23,\quad \rho_g(23) = 11,\quad \rho_g(11) = 3$$
+
+$$\rho_g(4) = 20,\quad \rho_g(20) = 22,\quad \rho_g(22) = 6,\quad \rho_g(6) = 4$$
+
+$$\rho_g(7) = 9,\quad \rho_g(9) = 19,\quad \rho_g(19) = 17,\quad \rho_g(17) = 7$$
+
+$$\rho_g(8) = 14,\quad \rho_g(14) = 18,\quad \rho_g(18) = 12,\quad \rho_g(12) = 8$$
+
+$$\rho_g(13) = 13$$
+
+So the induced permutation $$\rho_g$$ is equal to 
+
+$$\rho_g = (1 \ 5 \ 25 \ 21)(2 \ 10 \ 24 \ 16)(3 \ 15 \ 23 \ 11)(4 \ 20 \ 22 \ 6)(7 \ 9 \ 19 \ 17)$$
+
+$$\cdot (8 \ 14 \ 18 \ 12)(13)$$
+
+which consists of $$7$$ disjoint cycles. Let's count in a faster way the cycles of the permutation $$\rho_{ba}$$. 
+
+![texture theme preview](images/equal1.png)
+
+![texture theme preview](images/equal2.png)
+
+Since $$b$$ is the reflexion on the $$x=0$$ axis and $$a$$ is the clockwise rotation by $$90^{\circ}$$ we are rotating the $$x=0$$ axis to the $$y=x$$ one and then reflecting. Thus, the cells on the $$y=x$$ axis are fixed as we see in the above pictures and the rest of the cells are in cycles of length $$2$$. Therefore:
+
+$$\rho_{ba}  = (1 \ 25)(2 \ 20)(3 \ 15)(4 \ 10)(6 \ 24)(7 \ 19)(8 \ 14) (11 \ 23)(12 \ 18) (16 \ 22)$$
+
+$$\cdot (5)(9)(13)(17)(23)$$
+
+which consists of $$15$$ disjoint cycles.
+
+
+So all in all, the induced permutations consist of
+
+$$\rho_e: \quad \text{25 disjoined cycles}$$
+
+Those that are purely rotations:
+
+$$\rho_{a}, \rho_{a^2}, \rho_{a^3}: \quad  \text{ 7 disjoined cycles } $$
+
+Those that contain a reflexion:
+
+$$\rho_{b}, \rho_{ba}, \rho_{ba^2}, \rho_{ba^3}:  \quad \text{ 15 disjoined cycles } $$
+
+Hence, we are summing up and dividing by $$8$$ which is the order of $$D_4$$ to get the number of equivalence classes of colorings:
+
+$$|X/G| = \text{number of orbits} = $$
+
+$$ = \text{ number of equivalence classes of colorings} = $$
+
+$$ = \frac{1}{8}\left(n^{25} + 4n^{15} + 3n^{7}\right)$$
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+
+Thank you for reading! This post was submitted to the SoME1 contest.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
 
 
 
