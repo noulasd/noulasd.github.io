@@ -6,7 +6,7 @@ categories: Algebra
 permalink: Understanding-Group-Actions-on-Sets.html
 ---
 
-Every first encounter with the notion of [group]{https://en.wikipedia.org/wiki/Group_(mathematics)} action is confusing. How can group and set elements interact with each other? The idea of a binary operation between the elements of a group and a set seems to be way abstract at first, but let's dive deeper into it.
+Every first encounter with the notion of [group](https://en.wikipedia.org/wiki/Group_(mathematics)) action is confusing. How can group and set elements interact with each other? The idea of a binary operation between the elements of a group and a set seems to be way abstract at first, but let's dive deeper into it.
 
 We will start with some simple examples. Let's consider the multiplicative group $$(\mathbb{Q}\setminus \{0\}, \cdot)$$ and the set $$\mathbb{R}$$ of the real numbers. If we pick the integer $$g=2$$ from our group, then for every real $$x \in \mathbb{R}$$ we can define the binary operation $$*$$ between our group and our set such as:
 
@@ -55,7 +55,7 @@ Let us now consider some more interesting examples.
 In Galois theory we deal with roots of polynomials over fields. Most of the time these fields contain $$\mathbb{Q}$$. We also denote $$\mathbb{Q}(a_1,\ldots,a_n)$$ the smallest subfield of $$\mathbb{C}$$ that contains $$\mathbb{Q}$$ and $$a_1,\ldots,a_n$$. Lets consider the polynomial $$x^4 +3$$. This polynomial splits completely over $$K = \mathbb{Q}(a,\zeta_4)$$ where $$a = i\sqrt[4]{3}$$ and $$\zeta_4$$ is a primitive 4th root of unity. What this means is that in the polynomial ring $$K[x]$$ have the factorization into linear factors:
 
 
-$$x^4 + 3 = (x-a)(x- \zeta_4 a)(x-\zeta^2_4 a) (x-\zeta^3_4 a) = 
+$$x^4 + 3 = (x-a)(x- \zeta_4 a)(x-\zeta^2_4 a) (x-\zeta^3_4 a) = $$
 
 
 $$ =(x-a)(x-ia)(x+a)(x+ia)$$
@@ -279,7 +279,7 @@ $$ = \frac{1}{8}\left(n^{25} + 4n^{15} + 3n^{7}\right)$$
 
 
 
-Thank you for reading! This post was submitted to the [SoME1]{https://www.3blue1brown.com/blog/some1} contest.
+Thank you for reading! This post was submitted to the [SoME1](https://www.3blue1brown.com/blog/some1) contest.
 
 &nbsp;
 
