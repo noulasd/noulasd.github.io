@@ -152,7 +152,7 @@ Let's solve a neat combinatorics problem now. Suppose we have a $$5 \times 5$$ g
 ![texture theme preview](images/color1.gif)
 
 
-In how many was can we do that? The answer of course is $$n^{25}$$. That's easy. What if we decide that two colorings of our grid are equivalent if the second one can happen from the first after a $$90^{\circ}$$ rotation or a reflexion over any axis of symmetry? How many equivalence classes of colorings are now? The answer is $$ \frac{1}{8}\left(n^{25} + 4n^{15} + 3n^{7}\right)$$. Not so straightforward this time right?
+In how many was can we do that? The answer of course is $$n^{25}$$. That's easy. What if we decide that two colorings of our grid are equivalent if the second one can happen from the first after a $$90^{\circ}$$ rotation or a reflexion over any axis of symmetry? How many equivalence classes of colorings are now? The answer is $$ \frac{1}{8}\left(n^{25} + 4n^{15} + 3n^{7}\right)$$. Not so straightforward this time, right?
 
 For example, the following two colorings are equivalent:
 
