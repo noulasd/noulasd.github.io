@@ -202,6 +202,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: ""
@@ -218,7 +219,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
       type: publications
