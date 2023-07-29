@@ -1,5 +1,5 @@
 ---
-title: "Number of ways to place non-attacking knights on a 3 X n chessboard"
+title: "Number of ways to place non-attacking knights on a 3xn chessboard"
 collection: research
 permalink: /research/non_attacking_knights
 date: 2018-11-01
