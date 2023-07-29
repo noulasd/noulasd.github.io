@@ -222,9 +222,9 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: research
+      type: publications
     values:
-      layout: archive
+      layout: single
       author_profile: true
       share: true
       comments: true
