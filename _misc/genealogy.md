@@ -9,16 +9,16 @@ excerpt: "Genealogy of Mathematicians"
 [Jacob Bernoulli](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/) <br>
 Universität Basel (1684)<br>
 
-[Johann Bernoulli](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/)
-Universität Basel (1690)
+[Johann Bernoulli](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/)<br>
+Universität Basel (1690)<br>
 
-[Leonhard Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Euler/)
-Universität Basel (1726)
+[Leonhard Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Euler/)<br>
+Universität Basel (1726)<br>
 
-[J. Lagrange](https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/)
-Università di Torino (1754)
+[J. Lagrange](https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/)<br>
+Università di Torino (1754)<br>
 
-S. Poisson      J. Fourier                                              Carl Friedrich Gauß                                            
+[S. Poisson](https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/)  &nbsp;    [J. Fourier](https://mathshistory.st-andrews.ac.uk/Biographies/ Fourier/)    &ensp;  Carl Friedrich Gauß <br>                                            
 École Polytechnique (1800)       École Normale Supérieure               Universität Helmstedt (1799)
 
             Gustav Dirichlet                                            J. Encke
