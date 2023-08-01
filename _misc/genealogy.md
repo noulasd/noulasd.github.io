@@ -2,6 +2,7 @@
 title: "Genealogy"
 collection: misc
 permalink: /genealogy
+excerpt: ""
 
 ---
 
