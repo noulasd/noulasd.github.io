@@ -19,7 +19,7 @@ Universität Basel (1726)<br>
 Università di Torino (1754)<br>
 
 [S. Poisson](https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/)  -  [J. Fourier](https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/) &emsp;&emsp;&emsp;&emsp;&emsp; [Carl Friedrich Gauß](https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/)<br>
-École Polytechnique (1800) &emsp;&emsp;&emsp;&emsp;&emsp;Universität Helmstedt (1799) <br>- École Normale Supérieure  
+École Polytechnique (1800) &emsp;&emsp;&emsp;&emsp;Universität Helmstedt (1799) <br>- École Normale Supérieure  
 
             Gustav Dirichlet                                            J. Encke
             Rheinische Friedrich-Wilhelms-Universität Bonn (1827)       Universität Berlin (1844)
