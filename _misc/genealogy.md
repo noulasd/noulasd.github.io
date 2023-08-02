@@ -22,24 +22,23 @@ Università di Torino (1754)<br>
 École Polytechnique (1800) &emsp;&emsp;&emsp;Universität Helmstedt (1799) <br>- École Normale Supérieure  <br>
 
 
-[Gustav Dirichlet](https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/) &emsp;&emsp;&emsp;&emsp;&emsp; [J. Encke](https://mathshistory.st-andrews.ac.uk/Biographies/Encke/) <br>
-Rheinische Friedrich-Wilhelms-Universität Bonn (1827)&emsp;&emsp;&emsp; Universität Berlin (1844)
+[Gustav Dirichlet](https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/) &emsp;&emsp; - &emsp;&emsp; [J. Encke](https://mathshistory.st-andrews.ac.uk/Biographies/Encke/) <br>
+Universität Bonn (1827)&emsp;&emsp;&emsp; Universität Berlin (1844) <br>
 
+&emsp;&emsp;&emsp;&emsp;&emsp; [Leopoldt Kronecker](https://mathshistory.st-andrews.ac.uk/Biographies/Kronecker/) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; Universität Berlin (1845) <br>
 
-                                                Leopold Kronecker
-                                                Universität Berlin (1845)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Kurt Hensel](https://mathshistory.st-andrews.ac.uk/Biographies/Hensel/) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; Universität Berlin (1884) <br>
 
-                                                Kurt Hensel
-                                                Universität Berlin (1884)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Helmut Hasse](https://mathshistory.st-andrews.ac.uk/Biographies/Hasse/) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; Philipps-Universität Marburg (1922) <br>
 
-                                                Helmut Hasse
-                                                Philipps-Universität Marburg (1922)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Curt Meyer](https://en.wikipedia.org/wiki/Curt_Meyer) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; Humboldt-Universität zu Berlin (1950) <br>
 
-                                                Curt Meyer
-                                                Humboldt-Universität zu Berlin (1950)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Joannis (Ioannis) Antoniadis](http://users.math.uoc.gr/~antoniad/) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; Universität zu Köln (1981) <br>
 
-                                                Joannis (Ioannis) Antoniadis
-                                                Universität zu Köln (1981)
-
-                                                Aristides I. Kontogeorgis (my advisor)
-                                                University of Crete (1998)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Aristides I. Kontogeorgis](http://users.uoa.gr/~kontogar/) (my advisor) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp; University of Crete (1998) <br>
