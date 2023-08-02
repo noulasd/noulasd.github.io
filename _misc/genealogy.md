@@ -22,7 +22,7 @@ Università di Torino (1754)<br>
 École Polytechnique (1800) &emsp;&emsp;&emsp;Universität Helmstedt (1799) <br>- École Normale Supérieure  <br>
 
 
-[Gustav Dirichlet](https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/) &emsp;&emsp;&emsp;&emsp; - &emsp;&emsp;&emsp;&emsp; [J. Encke](https://mathshistory.st-andrews.ac.uk/Biographies/Encke/) <br>
+[Gustav Dirichlet](https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/)&emsp;&emsp;&emsp;&emsp; - &emsp;&emsp;&emsp;&emsp;[J. Encke](https://mathshistory.st-andrews.ac.uk/Biographies/Encke/) <br>
 Universität Bonn (1827)&emsp;&emsp;&emsp;&emsp;&emsp; Universität Berlin (1844) <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Leopold Kronecker](https://mathshistory.st-andrews.ac.uk/Biographies/Kronecker/) <br>
