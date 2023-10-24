@@ -40,5 +40,5 @@ Universität Bonn (1827)&emsp;&emsp;&emsp;&emsp;&emsp; Universität Berlin (1844
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Joannis (Ioannis) Antoniadis](http://users.math.uoc.gr/~antoniad/) <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Universität zu Köln (1981) <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Aristides I. Kontogeorgis](http://users.uoa.gr/~kontogar/) (my advisor) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Aristides I. Kontogeorgis](http://users.uoa.gr/~kontogar/)  <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; University of Crete (1998) <br>
