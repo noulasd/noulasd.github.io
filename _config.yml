@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "dnoulas [at] math.uoa.gr"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dimitrios Noulas"
   avatar           : "profile.png"
-  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: <b>"
+  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: 122<b>"
   location         : "Athens, Greece"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
