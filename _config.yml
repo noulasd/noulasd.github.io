@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dimitrios Noulas"
   avatar           : "profile.png"
-  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: 122<b>"
+  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: 122<b> <br> <b> email: dnoulas [at] math.uoa.gr <b>"
   location         : "Athens, Greece"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "dnoulas@math.uoa.gr"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
