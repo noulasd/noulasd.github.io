@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Dimitrios Noulas"
   pronouns         : # example: "she/her"  
-  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: 122<b> <br> <b> email: dnoulas [at] math [dot] uoa [dot] gr <b>"
+  bio              : "Department of Mathematics <br> University of Athens <br> <b> Office: 122<b> <br> <b> email: dnoulas [at] math [dot] uoa [dot] gr </b>"
   location         : "Athens, Greece"
   employer         : 
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dpdl5scAAAAJ&hl=el"
   impactstory      : # URL
-  orcid            : 
+  orcid            : #
   semantic         : # URL
-  pubmed           : 
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
