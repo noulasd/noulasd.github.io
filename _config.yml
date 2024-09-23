@@ -257,7 +257,16 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: publications
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      # _conference
+  - scope:
+      path: ""
+      type: conference
     values:
       layout: single
       author_profile: true
