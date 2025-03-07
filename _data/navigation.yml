@@ -9,10 +9,7 @@ main:
     url: /research/
 
   - title: "Conferences"
-    url: /conferences/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /conferences/     
         
   - title: "CV"
     url: /cv/
