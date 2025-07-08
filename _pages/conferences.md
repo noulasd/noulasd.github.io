@@ -21,7 +21,7 @@ author_profile: true
 ## Participations:
 
 * <a href="https://sites.google.com/view/ecasummerschool2025">Elliptic curves and their applications, Yerevan, Armenia, 2025.</a>
-* <a href="http://sites.math.ntua.gr/summer-school-2025/">8th Math at NTUA: Algebra classic topics and current trends, Athens, Greence, 2025.</a>
+* <a href="http://sites.math.ntua.gr/summer-school-2025/">8th Math at NTUA: Algebra classic topics and current trends, Athens, Greece, 2025.</a>
 * <a href="https://sites.google.com/view/intac24/">AESIM-CIMPA School, Introduction to Number Theory and Algebraic Curves, Belgrade, Serbia,2024.</a>
 * <a href="https://indico.math.cnrs.fr/event/8713/">Hecke Algebras and Applications, Spetses, Greece 2023.</a>
 * <a href="http://www.hms.gr/fcgm2022/">Second Congress of Greek Mathematicians SCGM-2022, Athens, Greece 2022.</a>
