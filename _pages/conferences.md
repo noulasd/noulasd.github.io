@@ -8,6 +8,8 @@ author_profile: true
 
 ## Talks:
 
+* Braid groups, Galois groups and some algebraic curves, <a href="https://sites.google.com/view/ecasummerschool2025">Elliptic curves and their applications, Institute of Mathematics of National Academy of Sciences of Armenia, Yerevan, 2025.</a>
+
 * The Heisenberg curve in Arithmetic Topology, <a href="https://sites.google.com/view/greek-women-in-mathematics-en/events/second-gwm-workshop">Second Workshop of Greek Women in Mathematics,</a> University of Athens, Greece, 04/07/2024. 
 
 ## Posters:
@@ -20,7 +22,7 @@ author_profile: true
 
 ## Participations:
 
-* <a href="https://sites.google.com/view/ecasummerschool2025">Elliptic curves and their applications, Yerevan, Armenia, 2025.</a>
+
 * <a href="http://sites.math.ntua.gr/summer-school-2025/">8th Math at NTUA: Algebra classic topics and current trends, Athens, Greece, 2025.</a>
 * <a href="https://sites.google.com/view/intac24/">AESIM-CIMPA School, Introduction to Number Theory and Algebraic Curves, Belgrade, Serbia,2024.</a>
 * <a href="https://indico.math.cnrs.fr/event/8713/">Hecke Algebras and Applications, Spetses, Greece 2023.</a>
