@@ -10,7 +10,7 @@ author_profile: true
 
 * Galois action on Homology of the Heisenberg curve, <a href="https://arxiv.org/abs/2411.11140">(arxiv.org/abs/2411.11140),</a> with A. Kontogeorgis, November 2024, submitted. 
 
-* An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories, <a href="https://arxiv.org/abs/2512.20551">(arxiv.org/abs/2512.20551), with M. Karakikes, S. Karanikolopoulos, A. Kontogeorgis. 
+* An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories, <a href="https://arxiv.org/abs/2512.20551">(arxiv.org/abs/2512.20551),</a> with M. Karakikes, S. Karanikolopoulos, A. Kontogeorgis. 
 
 * Distortion maps for Elliptic Curves over Finite Fields, In preparation. with N. Andrusov, S. Büyüksimkeşyan, F. Pazuki, M. Umut Kazancıoğlu, J. Vilà-Casadevall.
 
