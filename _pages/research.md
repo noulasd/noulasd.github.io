@@ -13,10 +13,13 @@ author_profile: true
 
 ## Preprints:
 
-* Galois action on Homology of the Heisenberg curve, <a href="https://arxiv.org/abs/2411.11140">(arxiv.org/abs/2411.11140),</a> with A. Kontogeorgis, November 2024, submitted. 
+* On periods and Jacobians of Heisenberg curves, <a href="https://arxiv.org/abs/2606.07315">(arxiv.org/abs/2606.07315)</a>, 2026.
 
 * An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories, <a href="https://arxiv.org/abs/2512.20551">(arxiv.org/abs/2512.20551),</a> with M. Karakikes, S. Karanikolopoulos, A. Kontogeorgis. 
 
 
-* On periods and Jacobians of Heisenberg curves, arxiv.
+* Galois action on Homology of the Heisenberg curve, <a href="https://arxiv.org/abs/2411.11140">(arxiv.org/abs/2411.11140),</a> with A. Kontogeorgis, November 2024, submitted. 
+
+
+
 
