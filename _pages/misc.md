@@ -15,4 +15,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
+<img src="{{ site.baseurl }}/images/coauthor.jpg" alt="coauthor" height="500">
+
+
 ![coauthor]({{ site.baseurl }}/images/coauthor.jpg)
