@@ -6,11 +6,15 @@ author_profile: true
 ---
 
 
-## Talks:
+## Invited Talks:
+(Upcoming) <a href="https://sites.google.com/view/4gntm"> 4th Greek Number Theory Meeting</a>, University of Thessaly, Lamia, Greece, December 2026. 
+
+
+## Contributed Talks:
 
 * Braid groups, Galois groups and some algebraic curves, <a href="https://sites.google.com/view/ecasummerschool2025">Elliptic curves and their applications, Institute of Mathematics of National Academy of Sciences of Armenia, Yerevan, 2025.</a>
-
 * The Heisenberg curve in Arithmetic Topology, <a href="https://sites.google.com/view/greek-women-in-mathematics-en/events/second-gwm-workshop">Second Workshop of Greek Women in Mathematics,</a> University of Athens, Greece, 04/07/2024. 
+
 
 ## Posters:
 
