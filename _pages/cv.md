@@ -21,6 +21,9 @@ Work experience
 * Spring 2024-Present: Hellenic Foundation of Research and Innovation
   * Researcher 
   
+Teaching experience
+======
+* TA Spring 2026: Linear algebra 2, University of Athens
   
 Computer Skills
 ======
@@ -29,3 +32,4 @@ Computer Skills
 * SageMath
 * Linux
 
+<img src="{{ site.baseurl }}/images/tymfi.jpg" alt="tymfi">

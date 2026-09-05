@@ -23,3 +23,10 @@ author_profile: true
 
 
 
+
+
+<img src="{{ site.baseurl }}/images/hike2.jpg" alt="hike2">
+
+
+
+
