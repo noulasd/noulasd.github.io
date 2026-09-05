@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.misc reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+![coauthor]({{ site.baseurl }}/images/coauthor.jpg)
