@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-** *I am currently on the job market for Fall 2027-2028.* **
+***I am currently on the job market for Fall 2027-2028.***
 
 As of December 2023, I am a PhD student in the department of [Mathematics](https://en.math.uoa.gr/), University of Athens in Greece, under the supervision of professor [Aristides Kontogeorgis](http://users.uoa.gr/~kontogar/). My research interests lie in Arithmetic Geometry, Arithmetic Topology and Galois Representations, with a focus on algebraic curves as covers of the punctured projective line.
 
