@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-That hidden coauthor:
+That hidden coauthor: <br>
 <img src="{{ site.baseurl }}/images/coauthor.jpg" alt="coauthor" height="300" width="250">
 
 
