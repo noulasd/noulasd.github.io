@@ -12,17 +12,16 @@ author_profile: true
 * Distortion maps for Elliptic curves over Finite Fields, <a href="https://sites.google.com/view/gantseminar/home"> Greek Algebra and Number Theory,</a> (online) 2026. (youtube.com/watch?v=rO9w-K-1HpI) <a href="https://noulasd.github.io/files/distortion_gant.pdf"> (Slides). </a>
 
 ## Contributed Talks:
-
+* On Jacobians of Heisenberg curves, <a href="https://yrmath4.conf.uoi.gr/?lang=el"> 4th Young Researchers Conference in Areas of Mathematical Sciences </a>, University of Ioannina, Greece, 2026.
 * Braid groups, Galois groups and some algebraic curves, <a href="https://sites.google.com/view/ecasummerschool2025">Elliptic curves and their applications, Institute of Mathematics of National Academy of Sciences of Armenia, Yerevan, 2025.</a>
 * The Heisenberg curve in Arithmetic Topology, <a href="https://sites.google.com/view/greek-women-in-mathematics-en/events/second-gwm-workshop">Second Workshop of Greek Women in Mathematics,</a> University of Athens, Greece, 04/07/2024. 
 
 
 ## Posters:
-
+* On Jacobians of Heisenberg curves, <a href="https://emiliano-ambrosi.perso.math.cnrs.fr//Cavaret2page/Cavaret2main.html"> CAVARET 2: Curves, Abelian Varieties and Related topics,</a> University of Barcelona, Spain, 2026.
+* On Jacobians of Heisenberg curves, <a href="https://sites.google.com/view/gaelxxxiii/">Géométrie Algébrique en Liberté XXXIII,</a> Leiden University, Netherlands, 2026.
 * Ihara theory on the Heisenberg covering tower of $\mathbb{P^1}-\{0,1,\infty\}$, <a href="https://sites.google.com/view/gaelxxxii/home"> Géométrie Algébrique en Liberté XXXII, </a> Institute of Mathematics of Toulouse, France, 16/06/2025.
-
 * Ihara theory on the Heisenberg covering tower of $\mathbb{P^1}-\{0,1,\infty\}$, <a href="https://sites.google.com/view/gantconference2025/"> 10th Greek Algebra and Number Theory Conference, </a> University of Crete, Heraklion, Greece, 23/05/2025.
-
 * Actions on the Homology of the Heisenberg curve, <a href="https://nt2024.unibw.de/">Algebraic Number Theory, a workshop for young researchers,</a> University of the Bundeswehr Munich, Germany, 03/09/2024.
 
 ## Participations:
