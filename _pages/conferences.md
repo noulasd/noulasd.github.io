@@ -9,7 +9,7 @@ author_profile: true
 ## Invited Talks:
 * (Upcoming) <a href="https://sites.google.com/view/4gntm"> 4th Greek Number Theory Meeting</a>, University of Thessaly, Lamia, Greece, December 2026. 
 * (Upcoming) <a href="https://www2.math.kyushu-u.ac.jp/~morisita/"> Low dimensional topology and number theory XVIII (Part I) </a>, University of Osaka, Japan, November 2026.
-* Distortion maps for Elliptic curves over Finite Fields, <a href="https://sites.google.com/view/gantseminar/home"> Greek Algebra and Number Theory,</a> (online) 2026. <a href="youtube.com/watch?v=rO9w-K-1HpI">(Video). </a> <a href="https://noulasd.github.io/files/distortion_gant.pdf"> (Slides). </a>
+* Distortion maps for Elliptic curves over Finite Fields, <a href="https://sites.google.com/view/gantseminar/home"> Greek Algebra and Number Theory,</a> (online) 2026. <a href="https://www.youtube.com/watch?v=rO9w-K-1HpI">(Video). </a> <a href="https://noulasd.github.io/files/distortion_gant.pdf"> (Slides). </a>
 
 ## Contributed Talks:
 * On Jacobians of Heisenberg curves, <a href="https://yrmath4.conf.uoi.gr/?lang=el"> 4th Young Researchers Conference in Areas of Mathematical Sciences </a>, University of Ioannina, Greece, 2026.
