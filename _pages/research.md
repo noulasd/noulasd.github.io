@@ -8,7 +8,7 @@ author_profile: true
 
 ## Publications:
 
-* Distortion maps for Elliptic Curves over Finite Fields, with N. Andrusov, S. Büyüksimkeşyan, F. Pazuki, M. Umut Kazancıoğlu, J. Vilà-Casadevall. To appear in: Polynesian Journal of Mathematics, Special Volume “AJAX”: Arithmetic, Jacobians, Algorithms & Exposition — Celebrating the mathematics of René Schoof of The Polynesian Journal of Mathematics, 2026, <a href="https://arxiv.org/abs/2601.09904">(arxiv.org/abs/2601.09904).</a> 
+* Distortion maps for Elliptic Curves over Finite Fields, with N. Andrusov, S. Büyüksimkeşyan, F. Pazuki, M. Umut Kazancıoğlu, J. Vilà-Casadevall. *Polynesian Journal of Mathematics*, vol. 4, no. 4, pp. 1–26. DOI: <a href="10.69763/polyjmath.4.4">10.69763/polyjmath.4.4</a>, (2026).
 * Galois action on Homology of the Heisenberg curve, with A. Kontogeorgis. *Transformation Groups*. <a href="https://doi.org/10.1007/s00031-026-09993-9">doi.org/10.1007/s00031-026-09993-9 </a> (2026). 
 
 
