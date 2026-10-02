@@ -15,7 +15,7 @@ author_profile: true
 
 ## Preprints:
 
-* On periods and Jacobians of Heisenberg curves, <a href="https://arxiv.org/abs/2606.07315">(arxiv.org/abs/2606.07315)</a>, 2026, submitted.
+* On periods and Jacobians of Heisenberg curves, <a href="https://arxiv.org/abs/2606.07315">(arxiv.org/abs/2606.07315)</a>, 2026.
 * An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories, <a href="https://arxiv.org/abs/2512.20551">(arxiv.org/abs/2512.20551),</a> with M. Karakikes, S. Karanikolopoulos, A. Kontogeorgis. 
 
 
