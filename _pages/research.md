@@ -8,7 +8,7 @@ author_profile: true
 
 ## Publications:
 
-* Distortion maps for Elliptic Curves over Finite Fields, with N. Andrusov, S. Büyüksimkeşyan, F. Pazuki, M. Umut Kazancıoğlu, J. Vilà-Casadevall. *Polynesian Journal of Mathematics*, vol. 4, no. 4, pp. 1–26. <a href="doi.org/10.69763/polyjmath.4.4">doi.org/10.69763/polyjmath.4.4</a>, (2026).
+* Distortion maps for Elliptic Curves over Finite Fields, with N. Andrusov, S. Büyüksimkeşyan, F. Pazuki, M. Umut Kazancıoğlu, J. Vilà-Casadevall. *Polynesian Journal of Mathematics*, vol. 4, no. 4, pp. 1–26. <a href="https://doi.org/10.69763/polyjmath.4.4">doi.org/10.69763/polyjmath.4.4</a>, (2026).
 * Galois action on Homology of the Heisenberg curve, with A. Kontogeorgis. *Transformation Groups*. <a href="https://doi.org/10.1007/s00031-026-09993-9">doi.org/10.1007/s00031-026-09993-9 </a> (2026). 
 
 
