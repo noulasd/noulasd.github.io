@@ -16,6 +16,8 @@ author_profile: true
 ## Preprints:
 
 * On periods and Jacobians of Heisenberg curves, <a href="https://arxiv.org/abs/2606.07315">(arxiv.org/abs/2606.07315)</a>, 2026.
+(Note: this is an outdated version. I am preparing a new one interpreting the Galois action on the Tate module of the Jacobian via the Grothendieck-Teichmüller group and Lie algebras)
+
 * An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories, <a href="https://arxiv.org/abs/2512.20551">(arxiv.org/abs/2512.20551),</a> with M. Karakikes, S. Karanikolopoulos, A. Kontogeorgis. 
 
 
